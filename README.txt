@@ -2,7 +2,7 @@
 
 A clean and simple desktop app to help you track your university modules, assessments, and calculate your average grade — all in one place.
 
-![Screenshot](./screenshots/dashboard.png)
+![Screenshot](./screenshots/dashboard.png) ( TO BE ADDED ) 
 
 ## Features
 
