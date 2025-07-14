@@ -1,0 +1,163 @@
+{
+    "Software Quality": {
+        "is_complete": true,
+        "assessments": [
+            {
+                "name": "Test 1",
+                "score": 40.0,
+                "max": 50.0,
+                "weight": 50.0,
+                "graded": true
+            },
+            {
+                "name": "Test 2",
+                "score": 40.0,
+                "max": 50.0,
+                "weight": 50.0,
+                "graded": true
+            }
+        ]
+    },
+    "Software Techniques": {
+        "is_complete": true,
+        "assessments": [
+            {
+                "name": "Quiz",
+                "score": 14.0,
+                "max": 18.0,
+                "weight": 10.0,
+                "graded": true
+            },
+            {
+                "name": "Test",
+                "score": 14.33,
+                "max": 30.0,
+                "weight": 30.0,
+                "graded": true
+            },
+            {
+                "name": "Assessment",
+                "score": 66.0,
+                "max": 100.0,
+                "weight": 60.0,
+                "graded": true
+            }
+        ]
+    },
+    "Software Architecture": {
+        "is_complete": true,
+        "assessments": [
+            {
+                "name": "Assignment 1",
+                "score": 38.0,
+                "max": 50.0,
+                "weight": 50.0,
+                "graded": true
+            },
+            {
+                "name": "Assignment 2",
+                "score": 94.0,
+                "max": 100.0,
+                "weight": 50.0,
+                "graded": true
+            }
+        ]
+    },
+    "Advanced Database": {
+        "is_complete": true,
+        "assessments": [
+            {
+                "name": "Assignment 1",
+                "score": 43.0,
+                "max": 50.0,
+                "weight": 25.0,
+                "graded": true
+            },
+            {
+                "name": "Assignment 2",
+                "score": 46.0,
+                "max": 50.0,
+                "weight": 25.0,
+                "graded": true
+            },
+            {
+                "name": "Test",
+                "score": 18.0,
+                "max": 35.0,
+                "weight": 50.0,
+                "graded": true
+            }
+        ]
+    },
+    "Responsible Computing": {
+        "is_complete": true,
+        "assessments": [
+            {
+                "name": "Report",
+                "score": 37.8,
+                "max": 100.0,
+                "weight": 60.0,
+                "graded": true
+            },
+            {
+                "name": "Presentation",
+                "score": 67.88,
+                "max": 100.0,
+                "weight": 40.0,
+                "graded": true
+            }
+        ]
+    },
+    "Programming Paradigms": {
+        "is_complete": true,
+        "assessments": [
+            {
+                "name": "Test",
+                "score": 23.0,
+                "max": 25.0,
+                "weight": 25.0,
+                "graded": true
+            },
+            {
+                "name": "Report",
+                "score": 54.0,
+                "max": 75.0,
+                "weight": 75.0,
+                "graded": true
+            }
+        ]
+    },
+    "Software Engineering Project": {
+        "is_complete": false,
+        "assessments": [
+            {
+                "name": "Project Outline",
+                "score": 88.0,
+                "max": 100.0,
+                "weight": 10.0,
+                "graded": true
+            },
+            {
+                "name": "Logbooks",
+                "score": 0.0,
+                "max": 100.0,
+                "weight": 5.0,
+                "graded": false
+            },
+            {
+                "name": "Final Report",
+                "score": 0.0,
+                "max": 100.0,
+                "weight": 65.0,
+                "graded": false
+            },
+            {
+                "name": "Viva Demo",
+                "score": 0.0,
+                "max": 100.0,
+                "weight": 20.0,
+                "graded": false
+            }
+        ]
+    }
+}

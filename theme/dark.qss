@@ -1,0 +1,75 @@
+/* Global Reset */
+QWidget {
+    background-color: #1f1f1f;
+    color: #dcdcdc;
+    font-family: 'Segoe UI', 'Roboto', sans-serif;
+    font-size: 14px;
+}
+
+/* Inputs */
+QLineEdit, QPlainTextEdit, QTextEdit, QSpinBox, QDoubleSpinBox, QComboBox {
+    background-color: #2a2a2a;
+    border: 1px solid #444;
+    border-radius: 5px;
+    padding: 6px;
+    color: #ffffff;
+}
+
+/* Table */
+QTableWidget, QHeaderView::section {
+    background-color: #2a2a2a;
+    border: none;
+    color: #f0f0f0;
+    padding: 4px;
+}
+
+QHeaderView::section {
+    background-color: #333;
+    border: none;
+    font-weight: bold;
+}
+
+/* Buttons */
+QPushButton {
+    background-color: #3d3d3d;
+    border: none;
+    border-radius: 6px;
+    padding: 6px 12px;
+    color: #ffffff;
+}
+
+QPushButton:hover {
+    background-color: #505050;
+}
+
+QPushButton:pressed {
+    background-color: #2c2c2c;
+}
+
+/* Tabs */
+QTabBar::tab {
+    background: #2a2a2a;
+    color: #bbb;
+    padding: 8px 16px;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    margin-right: 2px;
+}
+
+QTabBar::tab:selected {
+    background: #3c3c3c;
+    color: #fff;
+}
+
+/* Checkboxes */
+QCheckBox {
+    padding: 2px;
+    color: #cccccc;
+}
+
+/* Label Highlights */
+QLabel#title_label {
+    font-size: 18px;
+    font-weight: bold;
+    color: #ffffff;
+}
